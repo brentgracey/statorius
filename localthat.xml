@@ -1,1 +1,7 @@
-bwaaaaaaaaaahahahaha
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string formatted="false" name="instant_accepted_request">Congratulations! We have connected you with &lt;font color=&quot;#ec8444&quot;&gt;%1$s&lt;/font&gt;.&lt;br&gt;You will be redirected to the video call once &lt;font color=&quot;#ec8444&quot;&gt;%2$s&lt;/font&gt; confirms.</string>
+    <string name="question_input_hint">asdfasdf</string>
+
+</resources>
